@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\bin\Debug\deligates.exe
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\bin\Debug\deligates.pdb
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\obj\Debug\deligates.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\obj\Debug\deligates.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\obj\Debug\deligates.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\obj\Debug\deligates.exe
+C:\Users\User\Desktop\Laboratory\№14\deligates\deligates\obj\Debug\deligates.pdb
